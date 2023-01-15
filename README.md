@@ -1,4 +1,4 @@
-# Automatic-Machine-Learning-Application-using-PyCaret-and-Streamlit
+# Building and deploying an automatic machine learning application with PyCaret and Streamlit
 
 **In this project, we builded and deployed ML app with PyCaret and Streamlit.**
 
